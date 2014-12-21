@@ -1,0 +1,33 @@
+/* 
+Colour Palette:
+Grey: #343838
+Dark Blue: #005F6B
+Another Blue: #008C9E
+Lighter Blue: #00B4CC
+Lightest Blue: #00DFFC
+*/
+
+body {
+    height: 2000px;
+    background: #343838;
+}
+#nav {
+  background: #000;   
+}
+.siteLogo {
+    width: 50px;
+    height: 50px;
+}
+h1 {
+    text-align: center;
+    color: #00b4cc;
+    font: bold 4em Verdana, Ariel, Helvetica, sans-serif;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.titleBox {
+    background: #005f6b;
+    width: 100%;
+    height: 75px;
+}
